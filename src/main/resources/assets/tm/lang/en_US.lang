@@ -1,0 +1,11 @@
+itemGroup.tribalTab=Tribal Majik
+item.obsidianShard.name=Obsidian Shard
+item.ancestorSkull.name=Ancestor's Skull
+item.dagger.name=Sacrifical Dagger
+tile.totemBlock.name=Totem
+tile.totemBlock.name=Strength Totem
+tile.strengthTotemBlock.name=Strength Totem
+tile.regenTotemBlock.name=Regeneration Totem
+tile.digTotemBlock.name=Mining Totem
+tile.speedTotemBlock.name=Speed Totem
+tile.ancestorBonesBlock.name=Ancestor's Bones(Change my spawn rate)

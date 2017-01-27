@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tm:totemBlock" },
+        "facing=south": { "model": "tm:totemBlock", "y": 180 },
+        "facing=west":  { "model": "tm:totemBlock", "y": 270 },
+        "facing=east":  { "model": "tm:totemBlock", "y": 90 }
+    }
+}
